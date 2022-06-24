@@ -1,0 +1,38 @@
+body {
+    font: verdana;
+}
+
+.navbar {
+background-color: #17A589;
+font-weight: bold;
+padding-bottom: 0;
+}
+
+.quem-somos {
+    background-color: #13A7B9;
+    color: white;    
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+h3 {
+    padding-bottom: 20px;    
+}
+
+img {
+    padding-bottom: 20px;
+}
+
+.servicos {
+    background-color: #13A7B9;
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    padding-bottom: 15px;
+}
